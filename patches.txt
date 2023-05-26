@@ -55,3 +55,4 @@ vanced-microg-support
 video-ads
 video-speed
 amoled
+remove-screenshot-restriction
