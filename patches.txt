@@ -18,7 +18,7 @@ copy-video-url
 custom-branding
 custom-video-buffer
 disable-shorts-on-startup
-downloads
+external-downloads
 enable-debugging
 hdr-auto-brightness
 hide-ads
