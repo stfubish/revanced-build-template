@@ -39,12 +39,13 @@ hide-shorts-components
 hide-video-action-buttons
 hide-watch-in-vr
 hide-watermark
+hide-layout-components
 minimized-playback
 navigation-buttons
 open-links-externally
 premium-heading
 remember-video-quality
-remove-player-button-background
+remove-player-controls-background
 return-youtube-dislike
 seekbar-tapping
 sponsorblock
